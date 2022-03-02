@@ -24,7 +24,7 @@ else:
 
 
 
-#convert to military time
+#convert to military time cse 5408
 time_to_convert = raw_input("Enter a 12 hour time to covert to 24 hour(in the following format 00:00:00 AM/PM): ")
 def convert24(str1):
 
